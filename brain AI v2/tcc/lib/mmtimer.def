@@ -1,0 +1,10 @@
+LIBRARY MMTIMER.dll
+EXPORTS
+timeBeginPeriod
+timeEndPeriod
+timeGetDevCaps
+timeGetHardwareFrequency
+timeGetTime
+timeGetTimeSinceInterrupt
+timeKillEvent
+timeSetEvent

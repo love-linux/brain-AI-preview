@@ -1,0 +1,15 @@
+LIBRARY brainmath.dll
+EXPORTS
+bm_axpy
+bm_bench
+bm_det
+bm_dot
+bm_integrate
+bm_inverse
+bm_matmul
+bm_matvec
+bm_norm
+bm_rk4
+bm_root
+bm_solve
+bm_version

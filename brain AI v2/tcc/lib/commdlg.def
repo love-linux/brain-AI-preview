@@ -1,0 +1,7 @@
+LIBRARY COMMDLG.dll
+EXPORTS
+ChooseColor
+ChooseFontW
+CommDlgExtendedError
+PageSetupDlgW
+PrintDlg

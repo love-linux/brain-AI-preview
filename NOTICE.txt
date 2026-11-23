@@ -1,0 +1,25 @@
+brain AI v2
+作者 / Author: love-linux
+配布元 / Source of distribution: https://github.com/love-linux/brain-AI-preview
+
+再配布するときは、作者名「love-linux」と上の GitHub のリンクを必ず明記し、
+このファイルとライセンスのファイルを一緒に配布してください。
+
+When redistributing, you must credit "love-linux", include the GitHub link above,
+and keep this file and the license files with the distribution.
+
+表示の例 / Example credit:
+  brain AI v2 by love-linux
+  https://github.com/love-linux/brain-AI-preview
+
+ライセンス / Licenses
+- アプリ本体 (AppMain.exe, AppMain_dbg.exe, brainai_pc.exe): LICENSE-APP.txt
+- モデル (v2, coderv1, v2flash, ocr.bin): CC BY-SA 4.0 / 作者 love-linux
+- 辞書 (kb.tsv): CC BY-SA 4.0 / 日本語版 Wikipedia の見出しと本文冒頭をもとに作成
+  https://ja.wikipedia.org/
+  CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/deed.ja
+- TinyCC: GNU LGPL 2.1 以降 / 改造版ソース https://github.com/love-linux/tinycc-brain
+- Lua / QuickJS / mruby: MIT ライセンス
+
+同梱の第三者ソフトウェアには、それぞれのライセンスが適用されます。
+本文は THIRD-PARTY-LICENSES.txt にあります。

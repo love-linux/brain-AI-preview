@@ -1,0 +1,7 @@
+len=1
+style=1
+font=1
+kana=0
+expert=1
+fast=1
+face=MS Gothic
