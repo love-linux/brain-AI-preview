@@ -105,3 +105,7 @@ C コンパイラとスクリプト言語は Brain 専用です。PC 版では�
 - **TinyCC**: GNU Lesser General Public License（LGPL）2.1 以降。Brain 向けに改造したソースコードは [tinycc-brain](https://github.com/love-linux/tinycc-brain) で公開しています。
 - **Lua / QuickJS / mruby**: それぞれ MIT ライセンスで配布されているものを同梱しています。
 - 同梱ソフトウェアのライセンス本文は [THIRD-PARTY-LICENSES.txt](THIRD-PARTY-LICENSES.txt) にあります。
+
+## Source policy
+
+The models (weights and dictionary) are open under CC BY-SA 4.0, and TinyCC is open source (LGPL-2.1 or later). The brain-ai application itself is closed-source and distributed as binaries only.
